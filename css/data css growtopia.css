@@ -1,0 +1,61 @@
+.kiripage{
+    width: 400px ;
+    height:  600px ;
+    position: absolute;
+    margin-left: 20;
+    border-radius: 10px;
+    background-color: #603f8b;
+}
+
+.kananpage{
+    width: 550px ;
+    height:  250px ;
+    position: absolute;
+    margin-left: 700;
+    margin-top: ;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.kananpage2{
+    width: 550px ;
+    height:  250px ;
+    position: absolute;
+    margin-left: 700;
+    margin-top: 300px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.numberdlm{
+    margin-left: 20;
+    margin-top: -20;
+}
+.bannerkiri{
+    margin-left: 70;
+    margin-top: 20;
+}
+.getongp{
+    position: absolute;
+    margin-left: 10;
+}
+.getonap{
+    margin-left: 130;
+}
+.fontpadtop{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 78px;
+}
+.fontpad{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+}
+.getpad{
+padding-left: 60;
+}
+.col-12{
+    margin-top: 650px;
+}
+    

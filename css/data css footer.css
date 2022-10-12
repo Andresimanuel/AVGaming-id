@@ -1,0 +1,322 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#b16ce1 ;
+
+}
+
+.bagianatas{
+    position: fixed;
+    width: 140vh;
+    height: 50px;
+    background-color: black;
+}
+.navbar-toggler-icon{
+    position: relative;
+    left: 0px;
+    top: 1px;
+
+}
+
+.form-control{
+    position: relative;
+    left: 0px;
+    top: 9px;
+}
+
+.btn{
+    position: relative;
+    left: 0px;
+    top: 9px;  
+}
+
+
+.logoavgaming{
+ width: 200;
+ height: 45;
+}
+
+.burgerbar{
+width: 40;
+height: 30;
+float: left;
+margin: -35 0 0 20;
+}
+
+.search{
+width: 40;
+height: 30;
+float: right;
+margin: -35 50 0 0;    
+}
+
+.carousel-inner{
+    width: 1000;
+    height: 400 ;
+    margin-left: 120;
+    padding: 0;
+}
+.carousel-indicators{
+    margin-left: 250;
+}
+
+.hapusfloat{
+    clear: both;
+}
+
+.borderml{
+width: 160px;
+height: 180px;
+margin: 30 0 0 20;
+border-radius: 25px;
+background-color: #603f8b;
+}
+#gbrats{
+width: 160;
+height: 150;
+margin: 0 0 0 0;
+margin-bottom: 500px;
+border-radius: 25px;
+}
+
+#tlsbwh{
+    width: 160;
+    height: 150;
+    margin: -630 0 0 0;
+    margin-bottom: 500px;
+    border-radius: 25px;
+    }
+
+.news{
+    width: 0px; 
+    height: 0px;
+    margin: 20 0 0 250;
+}
+
+.borderpubg{
+    width: 160px;
+height: 180px;
+margin: -180 0 0 200;
+border-radius: 25px;
+background-color: #603f8b;
+}
+
+.bordergt{
+    width: 160px;
+height: 180px;
+margin: -180 0 0 380;
+border-radius: 25px;
+background-color: #603f8b;
+}
+
+.login1{
+    height: 100%;
+    width: 100%;
+}
+
+.form-box{
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 2% auto;
+    background: #fff;
+    padding: 5px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.button-box{
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    border-radius: 30px;
+}
+.toggle-btn{
+padding: 10px 30px;
+cursor: pointer;
+background: transparent;
+border: 0;
+outline: none;
+position: relative;
+}
+
+#btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background:linear-gradient(to right, #b16ce1,#603f8b );
+    border-radius: 30px;
+    transition: .5s;
+}
+.input-group{
+    top: 10px;
+    right: -30px;
+    position: relative;
+    width: 280px;
+    transition: .5s;
+}
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #b16ce1;
+    outline: none;
+    background: transparent;
+}
+.submit-btn{
+    position: relative;
+    top : 55px;
+    right: -30px;
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background:linear-gradient(to right, #b16ce1,#603f8b );
+    border: 0;
+    outline: none;
+    border-radius: 0px;
+}
+
+.check-box{
+    right: px;
+    top: 10px;
+    bottom: 0px;
+    position: relative;
+
+
+}
+
+
+#Login-id{
+left: 50px;
+}
+#Register-id{
+position: absolute;
+top : 129px;
+left: 400px;
+}
+.right{
+
+}
+
+.container{
+	position: relative;
+    margin-top: 100px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 100px;
+    
+}
+
+.container:after{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-size: cover;
+	z-index: -1;
+}
+.contact-box{
+	max-width: 850px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #F7F7F7;
+}
+
+.left{
+	background: url("AVGgaming\ banner.png") no-repeat center;
+	background-size: cover;
+	height: 100%;
+}
+
+.right{
+	padding: 25px 40px;
+}
+
+h2{
+	position: relative;
+	padding: 0 0 10px;
+	margin-bottom: 10px;
+}
+
+h2:after{
+	content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50px;
+    border-radius: 2px;
+    background-color: #603f8b ;
+}
+
+.field{
+	width: 100%;
+	outline: none;
+	background-color: rgba(230, 230, 230, 0.6);
+	padding: 0.5rem 1rem;
+	font-size: 1.1rem;
+	margin-bottom: 22px;
+	transition: .3s;
+}
+
+.field:hover{
+}
+
+textarea{
+	min-height: 150px;
+}
+
+.btnsubmit{
+	width: 100%;
+	padding: 0.5rem 1rem;
+	background:linear-gradient(to right, #b16ce1,#603f8b );
+	color: #fff;
+	font-size: 1.1rem;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: .3s;
+}
+
+.btnsubmit:hover{
+    background-color: #603f8b;
+}
+
+.field:focus{
+    border: 2px solid rgba(170, 7, 240, 0.47);
+    background-color: #fff;
+}
+
+@media screen and (max-width: 880px){
+	.contact-box{
+		grid-template-columns: 1fr;
+	}
+	.left{
+		height: 200px;
+	}
+}
+
+span{
+    color: #777;
+    font-size: 12px;
+    right: 0px;
+    top: 10px;
+    left: 10px;
+    bottom: 30px;
+    position: relative;
+}

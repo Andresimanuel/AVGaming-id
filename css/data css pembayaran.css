@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #b16ce1;
+}
+
+.pembayaran{
+   margin-top: 100;
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+#buynow{
+    border-radius: 5px;
+}
+
+.box1{
+    background-color: white;
+    width: 450PX;
+    height: auto;
+    margin-left: 170;
+    padding-left: 10px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.box2{
+    background-color: white;
+    width: 450PX;
+    height: auto;
+    margin-top: -182px ;
+    margin-left: 650 ;
+    border-radius: 10px;
+    padding-left: 10px;
+    position: relative;
+}

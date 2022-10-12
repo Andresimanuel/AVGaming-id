@@ -1,0 +1,155 @@
+.kiripage{
+    width: 400px ;
+    height:  600px ;
+    position: absolute;
+    margin-left: 20;
+    border-radius: 10px;
+    background-color: #603f8b;
+}
+
+.topiconml{
+    margin-left: 270px;
+}
+
+.kananpage{
+    width: auto ;
+    height:  auto ;
+    position: relative;
+    margin-left: 450;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.kananpage2{
+    width: auto ;
+    height:  auto ;
+    position: relative;
+    margin-left: 450;
+    margin-top: 60px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.kananpage3{
+    width: auto ;
+    height:  auto ;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 450;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.numberdlm{
+    margin-left: 20;
+    margin-top: -25;
+}
+.bannerkiri{
+    margin-left: 70;
+    margin-top: 20;
+}
+.getongp{
+    position: absolute;
+    margin-left: 10;
+}
+.getonap{
+    margin-left: 130;
+}
+.fontpadtop{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 78px;
+}
+.fontpad{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+}
+.getpad{
+padding-left: 60;
+}
+.col-md-5{
+    margin-left: 20px;
+    position: absolute;
+}
+
+.col-md-3{
+    margin-left: 380px;
+    position: absolute;
+}
+
+#help{
+    margin-left: 600px;
+    margin-top: 12px;
+    position: relative;
+}
+
+.helptext{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.nom{
+    
+}
+
+.price{
+    font-style: italic;
+}
+
+.box{
+    background-color: white;
+    
+    width: 180px;
+    height: auto;
+    border: #603f8b;
+    padding: 20px;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+
+
+.btn{
+    margin-left: 5px;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+#buynow{
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.price3{
+    padding: 10px;
+}
+
+.trf{
+    padding: 10px;
+}
+
+.dana{
+    width: 80;
+    height: 70;
+    margin-top: -10px;
+}
+
+.ovo{
+    width: 80;
+    height: 50;
+    margin-top: -1px;
+}
+
+.gopay{
+    width: 80;
+    height: 70;
+    margin-top: -10px;
+}
